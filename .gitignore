@@ -7,3 +7,7 @@ __pycache__/
 #  C
 
 *.so
+
+# Virtual Environment
+venv/
+.venv/
